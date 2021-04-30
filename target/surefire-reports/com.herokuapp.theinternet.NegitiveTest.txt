@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.herokuapp.theinternet.NegitiveTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.763 s - in com.herokuapp.theinternet.NegitiveTest

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="44808" started-at="2021-04-30T13:32:25Z" finished-at="2021-04-30T13:33:10Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="44808" started-at="2021-04-30T13:32:25Z" finished-at="2021-04-30T13:33:10Z">
+      <class name="com.herokuapp.theinternet.NegitiveTest">
+        <test-method status="PASS" signature="incorrectPasswordTest()[pri:0, instance:com.herokuapp.theinternet.NegitiveTest@6bf256fa]" name="incorrectPasswordTest" duration-ms="21044" started-at="2021-04-30T13:32:25Z" finished-at="2021-04-30T13:32:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectPasswordTest -->
+        <test-method status="PASS" signature="incorrectUsernameTest()[pri:0, instance:com.herokuapp.theinternet.NegitiveTest@6bf256fa]" name="incorrectUsernameTest" duration-ms="23706" started-at="2021-04-30T13:32:46Z" finished-at="2021-04-30T13:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- incorrectUsernameTest -->
+      </class> <!-- com.herokuapp.theinternet.NegitiveTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
